@@ -1,0 +1,14 @@
+{
+    "name": "TikTok",
+    "year_of_production": 2016,
+    "average_usage_per_day_minutes": 32.5,
+    "founder": "Zhang Yiming",
+    "isAgeRestricted": true,
+    "services": [
+        "Short Videos",
+        "Live streams",
+        "TikTok battles"
+    ],
+    "country_of_origin": "China",
+    "net_worth_billion_dollars": 75
+}
