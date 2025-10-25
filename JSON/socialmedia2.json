@@ -1,0 +1,92 @@
+[
+  {
+    "name": "TikTok",
+    "year_of_production": 2016,
+    "isAgeRestricted": true,
+    "founders": "Zhang Yiming",
+    "services": [
+      "Short Videos",
+      "Live Streams",
+      "TikTok Battles"
+    ]
+  },
+  {
+    "name": "Youtube",
+    "year_of_production": 2005,
+    "isAgeRestricted": true,
+    "founders": [
+      "Jawed Karim",
+      "Steve Chen",
+      "Chad Hurley"
+    ],
+    "services": [
+      "Short Videos",
+      "Long Videos",
+      "Live Streams",
+      "Youtube Shorts"
+    ]
+  },
+  {
+    "name": "Facebook",
+    "year_of_production": 2004,
+    "isAgeRestricted": true,
+    "founders": [
+      "Mark Zuckerberg",
+      "Eduardo Saverin",
+      "Dustin Moskovitz"
+    ],
+    "services": [
+      "News Feed",
+      "Messenger",
+      "Groups",
+      "Marketplace"
+    ]
+  },
+  {
+    "name": "Instagram",
+    "year_of_production": 2010,
+    "isAgeRestricted": true,
+    "founders": [
+      "Kevin Systrom",
+      "Mike Krieger"
+    ],
+    "services": [
+      "Photos",
+      "Videos",
+      "Reels",
+      "Stories"
+    ]
+  },
+  {
+    "name": "Snapchat",
+    "year_of_production": 2011,
+    "isAgeRestricted": true,
+    "founders": [
+      "Evan Spiegel",
+      "Bobby Murphy",
+      "Reggie Brown"
+    ],
+    "services": [
+      "Snaps",
+      "Stories",
+      "Filters",
+      "Chat"
+    ]
+  },
+  {
+    "name": "X (Twitter)",
+    "year_of_production": 2006,
+    "isAgeRestricted": true,
+    "founders": [
+      "Jack Dorsey",
+      "Biz Stone",
+      "Evan Williams"
+    ],
+    "services": [
+      "Posts",
+      "Spaces",
+      "Lists",
+      "Direct Messages"
+    ]
+  }
+]
