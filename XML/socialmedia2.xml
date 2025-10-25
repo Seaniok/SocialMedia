@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SocialMedia>
-    <TikTok>
+    <TikTok founders="Zhang Yiming" year_of_production="2016">
         <user_count>1.6 billion</user_count>
         <average_usage_per_day>58 minutes</average_usage_per_day>
         <goal_of_the_app>spread creativity and passions</goal_of_the_app>
         <country_of_origin>China</country_of_origin>
     </TikTok>
-    <Youtube>
+    <Youtube founders="Jawed Karim, Steve Chen, Chad Hurley" year_of_production="2005">
         <user_count>2.5 billion</user_count>
         <average_usage_per_day>19 minutes</average_usage_per_day>
         <goal_of_the_app>spread knowledge and wisdom</goal_of_the_app>
         <country_of_origin>The USA</country_of_origin>
     </Youtube>
-    <Snapchat>
+    <Snapchat founders="Evan Spiegel, Bobby Murphy, Reggie Brown" year_of_production="2011">
         <user_count>800 million</user_count>
         <average_usage_per_day>30 minutes</average_usage_per_day>
         <goal_of_the_app>connect with people and share experiences</goal_of_the_app>
         <country_of_origin>The USA</country_of_origin>
     </Snapchat>
-    <Facebook>
+    <Facebook founders="Mark Zuckerberg, Eduardo Saverin, Dustin Moskovitz, Andrew McCollum, Chris Hughes" year_of_production="2004">
         <user_count>3.1 billion</user_count>
         <average_usage_per_day>33 minutes</average_usage_per_day>
         <goal_of_the_app>Connect and meet new people</goal_of_the_app>
